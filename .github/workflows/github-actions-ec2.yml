@@ -2,7 +2,7 @@ name: Push-to-EC2
 
 # Trigger deployment only on push to main branch
 on:
-  push:
+  push: 
     branches:
       - main
 
